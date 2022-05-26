@@ -3,5 +3,5 @@ Use this React DEV web application (download and run -npm start) to look up song
 
 Instructions to run yourself: 
 - Create an app on Spotify @https://developer.spotify.com/
-- Go to Spotify.js and input your own clientId #
-- Run the app
+- Go to src/util/Spotify.js and input your own clientId #
+- Run the app in Visual Studio Code with -npm start
